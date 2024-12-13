@@ -1,7 +1,8 @@
 extends Area2D
 
 func _ready():
-	pass
+	global_position.x = 160
+	global_position.y = 460
 
 func _process(delta):
 	pass
