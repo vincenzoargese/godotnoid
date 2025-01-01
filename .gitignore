@@ -14,6 +14,11 @@ export_presets.cfg
 data_*/
 mono_crash.*.json
 
-# OS Ignore
+# OS specific ignores
 .DS_Store
 .DS_Store
+
+# VSCode specific ignores
+.vscode/
+settings.json
+
