@@ -17,3 +17,7 @@ mono_crash.*.json
 # OS Ignore
 .DS_Store
 .DS_Store
+
+# VSCode specific ignores
+.vscode/
+*.code-workspace
